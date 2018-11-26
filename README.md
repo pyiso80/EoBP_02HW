@@ -7,6 +7,10 @@
     - There can be at most 2 beepers at a corner
 - To Do:
     - Write a program in which Karel spread beepers evenly on the row.
+- Restriction:
+    - You can use only one **while** loop.
+    - Nested loops are **not** allowed.
+    - To make sure there is exactly one beeper on each corner, try to use **if** or **if else** statements
 - Tests Worlds:
     - EvenlySpreadBeeperRow.W, EvenlySpreadBeeperRow1.W
 
