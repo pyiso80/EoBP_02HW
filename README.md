@@ -23,3 +23,22 @@
     - Write a program in which Karel goes along the walls until it reaches the beeper.
 - Test Worlds:
     - BeeperFinder.W, BeeperFinder1.W, BeeperFinder2.w
+
+
+ #### OneSafeBeeper
+ - Initial Condition
+     - World size is fixed.
+     - Four possible state of the world, see left side of below pic
+     - https://github.com/pyiso80/EoBP_02HW/blob/master/OneSafeBeeper.png
+ - To Do:
+     - For each world on the left side the pic above, Kare must put beepers as shown in the corresponding final state of the world on the right.
+
+
+
+
+#### OneSafeBeeper
+- Initial Condition
+    - World size is fixed.
+    - Four possible state of the world, see OneSafeBeeper.w, OneSafeBeeper1.w, OneSafeBeeper2.w and OneSafeBeeper3.w
+- To Do:
+    -
