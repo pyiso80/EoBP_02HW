@@ -33,4 +33,4 @@
  - To Do:
      - For each world on the left side the pic above, Kare must put beepers as shown in the corresponding final state of the world on the right.
  - Test Worlds:
-     -OneSafeBeeper.w, OneSafeBeeper1.w, OneSafeBeeper2.w and OneSafeBeeper3.w
+     - OneSafeBeeper.w, OneSafeBeeper1.w, OneSafeBeeper2.w and OneSafeBeeper3.w
