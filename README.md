@@ -34,3 +34,16 @@
      - For each world on the left side the pic above, Kare must put beepers as shown in the corresponding final state of the world on the right.
  - Test Worlds:
      - OneSafeBeeper.w, OneSafeBeeper1.w, OneSafeBeeper2.w and OneSafeBeeper3.w
+
+#### CarpetingRoom
+- Initial Condition
+    - Karel **may** be is in front of a room as shown in CarpetingRoom.w (default world).
+    - A room is blocked by walls on all sides except on the **south**. A room is only one unit wide on each side. CarpetingRoom.w is a room.
+    - If any side/sides other than the south is open, it's not a room. CarpetingRoom1.w, CarpetingRoom2.w and CarpetingRoom3.w are not rooms.
+- To Do:
+    - Karel must put a beeper if he is in front of a room.
+    - Karel must not put a beeper if it is not a room.
+
+- Test Worlds:
+     - CarpetingRoom.w, CarpetingRoom1.w, CarpetingRoom2.w and CarpetingRoom3.w
+
